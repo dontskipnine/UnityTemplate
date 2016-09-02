@@ -28,3 +28,52 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# =============== #
+# Unity generated #
+# =============== #
+Project/UnityPlayer_Symbols.pdb
+Project/Temp/*
+Project/Library/*
+
+# ================ #
+# Specific Folders #
+# ================ #
+Project/Assets/Animations/Animatics/*
+Project/Assets/Resources/Achievements/*
+Project/Assets/Resources/Gallery/*
+Project/Assets/Resources/Music/*
+Project/Assets/Resources/Sound/*
+Project/Assets/Resources/Sprites/*
+Project/Assets/Resources/Resources/*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+Project/obj/*
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ===== #
+# Other #
+# ===== #
+*.zip
+*.rar
